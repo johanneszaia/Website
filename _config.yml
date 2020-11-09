@@ -1,15 +1,15 @@
 # Site/SEO settings
-email: okay@samesies.io
-baseurl: ""
+email: johannes.zaia@gmx.de
+baseurl: "johanneszaia.de"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Johannes Zaia
+title: Johannes Zaia
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  I publish photographs on this website
+url: https://johanneszaia.de
+twitter_username: 
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Johannes Zaia
+    bio: The bio is currently empty.
+    url: https://johanneszaia.de
 
 # Pagination settings
 pagination:
