@@ -3,7 +3,7 @@ layout: post
 title: "Sun and Snow"
 date: 2021-01-10
 description: 
-image: /assets/images/2021-01-10_Sun_and_Tree
+image: /assets/images/2021-01-10_Sun_and_Tree.jpg
 author: Johannes Zaia
 tags: 
   - Landscape
