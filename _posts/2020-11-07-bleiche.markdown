@@ -3,7 +3,7 @@ layout: post
 title: "Bleiche in Konstanz"
 date: 2020-11-07
 description: 
-image: /assets/images/2020-11-07_Bleiche
+image: /assets/images/2020-11-07_Bleiche.jpg
 author: Johannes Zaia
 tags: 
   - Landscape
@@ -11,4 +11,4 @@ tags:
   - Nightlights
   - Sky
 ---
-Most of my favorite spots in Konstanz are close to the river Rhein. Here, on the southern side of the river, you have a great chance to take some nice photos of the "Bleiche", nowadays a restaurant. 
+Most of my favorite spots in Konstanz are close to the river Rhein. Here, on the southern side of the river, you have a great chance to take some nice photos of the "Bleiche", nowadays a restaurant.     
