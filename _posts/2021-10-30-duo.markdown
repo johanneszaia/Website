@@ -3,7 +3,7 @@ layout: post
 title: "Unequal Twins"
 date: 2021-10-30
 description: 
-image: /assets/images/2021-10-30-duo.jpg
+image: /assets/images/2021-10-30_Duo.jpg
 author: Johannes Zaia
 tags: 
   - Landscape
