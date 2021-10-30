@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Unequal Twins"
+date: 2020-11-07
+description: 
+image: /assets/images/2021-10-30_Duo.jpg
+author: Johannes Zaia
+tags: 
+  - Landscape
+  - Trees
+  - Fog
+  - Nature
+---
+   
