@@ -1,6 +1,10 @@
 <!-- The footer at the very bottom of the screen -->
 <footer class="footer section-padding">
   <div class="grid">
+    <div class="link__container"></div>
+    <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+    </div>
+    <hr class="sep--white"/>
 
     <div class="footer__container">
       {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
