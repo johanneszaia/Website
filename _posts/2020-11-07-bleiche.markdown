@@ -6,9 +6,9 @@ description:
 image: /assets/images/2020-11-07_Bleiche.jpg
 author: Johannes Zaia
 tags: 
-  - Landscape
-  - Water
-  - Nightlights
-  - Sky
+  - Lanschaft
+  - Wasser
+  - Nacht
+  - Himmel
 ---
-Most of my favorite spots in Konstanz are close to the river Rhein. Here, on the southern side of the river, you have a great chance to take some nice photos of the "Bleiche", nowadays a restaurant.     
+Die meisten meiner Lieblingsplätze sind nahe am Fluss Rhein. Auf der südlichen Seite ist auch fast immer ein dramatischer Abendhimmel zu sehen. Dieses Foto zeigt den Blick auf die "Bleiche", heutzutage ein Restaurant.     
