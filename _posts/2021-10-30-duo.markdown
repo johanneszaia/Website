@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Unequal Twins"
+title: "Ungleich"
 date: 2021-10-30
 description: 
 image: /assets/images/2021-10-30_Duo.jpg
 author: Johannes Zaia
 tags: 
-  - Landscape
-  - Trees
-  - Fog
-  - Nature
+  - Lanschaft
+  - Bäume
+  - Nebel
+  - Natur
 ---
-   gfgnfgnfn
+   Diese zwei Bäume finde ich immer wieder aufs Neue beeindruckend. 

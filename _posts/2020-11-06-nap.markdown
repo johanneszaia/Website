@@ -7,7 +7,10 @@ image: /assets/images/2020-11-06_Nap.jpg
 author: Johannes Zaia
 tags: 
   - Nap
-  - Sea
-  - Animal
+  - Meer
+  - Wasser
+  - Tiere
+  - Natur
+  - Reisen
 ---
-Around San Diego, there a numerous beaches to watch the rich and flourishing sea life. I particularly enjoyed to see these seals taking a nap. 
+Bei San Diego gibt es zahlreiche Strände, wo man zahlreiche unterschiedliche Tiere beobachten kann. Meine Favoriten waren die Seehunde, die ein Schläfchen in der  Nachmittagssonne genossen haben. 

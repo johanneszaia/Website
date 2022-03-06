@@ -6,9 +6,10 @@ description:
 image: /assets/images/2020-11-05_Drops.jpg
 author: Johannes Zaia
 tags: 
-  - Drops
-  - Rain
-  - Flower
-  - Blue
+  - Tropfen
+  - Regen
+  - Blumen
+  - Blau
+  - Natur
 ---
-Taking photos of flowers and plants is nothing special anymore since every iPhone allows to take decent shots of them. Nevertheless, I enjoy to take some colorful shots of flora and fauna now and then. It's relaxing as it requires no timing skills if you just want to reach a mediocre level.
+Blumenfotos zu machen kostet mich immer etwas Überwindung und Energie, weil ich eigentlich nicht die Geduld dazu habe. Hin und wieder drängt es sich aber auf...
