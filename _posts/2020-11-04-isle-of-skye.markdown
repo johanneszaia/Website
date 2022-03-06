@@ -13,4 +13,4 @@ tags:
   - Reisen
   - Wasser
 ---
-I took this photo of this georgeous landscape on the Isle of Skye, Scotland. We had great weather during the entire Scotland trip (i.e. there was basically no rain - that's enough to celebrate there), but we were very pleased to have some clouds that level up the atmosphere for landscape shots. 
+Dieses Foto habe ich auf der Isle ok Skye in Schottland aufgenommen. Wir hatten gleich doppelt Glück: Zum einen wurden wir weitgehend von Regen verschont, zum andern gab es trotzdem genug Wolken, um das Bild dramatisch und authentisch wirken zu lassen. 
