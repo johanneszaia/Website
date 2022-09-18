@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Surfer"
+date: 2022-09-12
+description: 
+image: /assets/images/2022-09-12_surfer.jpg
+author: Johannes Zaia
+tags: 
+  - Landschaft
+  - Natur
+  - Meer
+  - Stadt
+  - Wasser
+  - Sport
+---
