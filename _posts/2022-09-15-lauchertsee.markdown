@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Lauchertsee"
 date: 2022-09-15
 description: 
 image: /assets/images/2022-09-15_lauchertsee.jpg
