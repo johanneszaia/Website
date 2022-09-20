@@ -9,7 +9,7 @@ tags:
   - Schottland
   - Isle of Skye
   - Schwarzweiß
-  - Lanschaft
+  - Landschaft
   - Reisen
   - Wasser
 ---
