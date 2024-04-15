@@ -1,0 +1,22 @@
+name: deploy
+run-name: Deploying website
+on:
+  push:
+    branches:
+      - 'master'
+jobs:
+  deploy-to-netlify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          path: node_modules
+          key: k-${{ hashFiles('package-lock.json') }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install
+      - name: Deploy website
+        run: npm run build
